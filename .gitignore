@@ -1,0 +1,6 @@
+*~
+*.elc
+/node_modules/
+/.vscode/
+/.cask/
+package-lock.json
